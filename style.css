@@ -37,7 +37,7 @@ html {
   }
 
   header {
-    background-image: url("images/marble.jpeg");
+    background-image: url("marble.jpeg");
     background-size: cover;
     background-position: center;      
     border-radius: 20px;
